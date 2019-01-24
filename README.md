@@ -8,8 +8,6 @@ This is a rails demo app that links to postgres and running on docker
 - [What and Why Ruby on Rails](https://zegetech.com/blog/2018/10/17/why-ruby-on-rails.html)
 - [Postgresql for debian users](https://www.postgresql.org/download/linux/debian/)
 
-- From the above links you can 
-
 ### Step 1 - Setting and starting a new rails app
 
 - Open your terminal and run
